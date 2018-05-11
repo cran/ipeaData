@@ -1,0 +1,15 @@
+999ab9a059080965ae5f9296fcfae951 *DESCRIPTION
+45ee4e48de7ac3e6ee4fc76490ae5a6f *NAMESPACE
+68727694b7a3543a3044f8abb33fa620 *NEWS.md
+e73e2b56cc3cfe4449b73793ca69ab21 *R/ipeaData.R
+3bfe59e9a09e2a426f0c72f5b67cc935 *README.md
+f6b77c59d6e6ccc7984ad7d49de75953 *man/basic_call.Rd
+612bbd21e1c5c2e9f986d988634af4df *man/format_data.Rd
+e146a8356ba0e878b7004907787282f2 *man/get_metadata.Rd
+27a40902e7bd1ed20e980b495b2267e5 *man/get_sources.Rd
+8cbd38a2b43cf3e704e046527e877d4e *man/ipeadata.Rd
+d7553d83e96091aaeb8af8e3f22e3173 *man/make_citation.Rd
+4d80cb4301de43d82699f5e8c78fd20a *man/output_control.Rd
+232c2765ff10c2094dabb1bf833f5c7a *tests/testthat.R
+6e9acc983667a9eb48623f3b7233fd53 *tests/testthat/test_format_data.R
+e7842f25dcb0ad35b1a008730f7d318d *tests/testthat/test_functions_ipea_data.R
