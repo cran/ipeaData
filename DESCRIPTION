@@ -1,7 +1,7 @@
 Package: ipeaData
 Type: Package
 Title: Getting Data from IPEADATA
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(
     person("Gustavo","Coelho", role=c("aut","cre"), email="gustavo.coelho@ipea.gov.br"),
     person("Lucas","Mation", role=c("aut"), email="lucas.mation@ipea.gov.br")
@@ -20,8 +20,8 @@ Depends: R (>= 3.0)
 Imports: data.table, RCurl, dplyr, httr, jsonlite
 Suggests: testthat, covr
 NeedsCompilation: no
-Packaged: 2018-05-10 21:09:46 UTC; B15599226
+Packaged: 2018-06-04 20:05:55 UTC; B15599226
 Author: Gustavo Coelho [aut, cre],
   Lucas Mation [aut]
 Repository: CRAN
-Date/Publication: 2018-05-11 11:18:56 UTC
+Date/Publication: 2018-06-04 20:17:57 UTC
